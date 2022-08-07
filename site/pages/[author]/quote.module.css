@@ -1,0 +1,24 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.quoteWrapper {
+  width: 760px;
+  margin-top: 50px;
+}
+
+.rightNav {
+  a {
+    text-decoration: none;
+    margin-right: 30px;
+    letter-spacing: -0.5px;
+  }
+}
+
+@media only screen and (max-width : 768px) {
+  .quoteWrapper {
+    width: 100%;
+  }
+}
