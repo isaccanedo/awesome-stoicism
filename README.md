@@ -1,6 +1,6 @@
 # Awesome Stoicism
 
-Resources around stoic philosophy
+Recursos em torno da filosofia estóica
 
 ## Table of Contents
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Click to expand) -->
